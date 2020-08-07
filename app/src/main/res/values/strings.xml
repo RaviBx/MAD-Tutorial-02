@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsingStrings</string>
+    <string name="Msg1">Here, I am the text message 01</string>
+    <string name="Msg2">Here, I am the text message 02</string>
+
+
+</resources>
